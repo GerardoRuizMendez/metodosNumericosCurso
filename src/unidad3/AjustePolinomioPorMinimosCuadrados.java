@@ -1,4 +1,4 @@
-package unidad2;
+package unidad3;
 import java.util.Scanner;
 
 public class AjustePolinomioPorMinimosCuadrados {
