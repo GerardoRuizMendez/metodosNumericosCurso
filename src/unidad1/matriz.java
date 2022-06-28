@@ -73,7 +73,7 @@ public class matriz {
         	}System.out.println("");
     	}*/
 		
-		
+		 
 		//System.out.println(m.determinante());
 		/*matriz pa=a.P.multiplicacion(a);
 		System.out.println("pa");
