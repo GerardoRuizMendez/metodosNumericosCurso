@@ -60,5 +60,5 @@ float determinante=m.determinante();
 la funcion de gauss seidel es una funcion estatica que nos pide como parametros una matriz A de nxn y una matriz B de 1xn, ademas del numero de iteraciones a realizar.
 Devuelve una matriz con los valores de las incognitas como resultado
 ```java
-matriz incognitas=matriz.Gauss Seidel(A,B,100);
+matriz incognitas=matriz.GaussSeidel(A,B,100);
 ```
