@@ -1,5 +1,6 @@
 # Proyecto final de Metodos numéricos
-Algoritmos para la materia "Métodos numéricos"
+Algoritmos para la materia "Métodos numéricos".
+(Los algoritmos de las unidades 1 y 3 estan en la carpeta src, mientras el resto estan en la carpeta "unidades 2,4 y 5")
 
 
 ## Unidad 1
