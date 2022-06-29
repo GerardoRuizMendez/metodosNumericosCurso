@@ -62,3 +62,9 @@ Devuelve una matriz con los valores de las incognitas como resultado
 ```java
 matriz incognitas=matriz.GaussSeidel(A,B,100);
 ```
+## Unidad 3
+
+### Interpolación Lagrange, NewtoN y Ajuste polinomio por mínimos cuadrados
+
+Dentro de la clase de cada algoritmo se encuentra en=l algoritmo en la funcion main, solo basta con elecutarla para llamar al mismo
+
