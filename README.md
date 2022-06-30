@@ -82,9 +82,19 @@ En nuestro programa tenemos una interfaz en donde al usuario le van pidiendo cie
 
 ## Unidad 3
 
-### Interpolación Lagrange, NewtoN y Ajuste polinomio por mínimos cuadrados
-
 Dentro de la clase de cada algoritmo se encuentra el algoritmo en la funcion main, solo basta con ejecutarla para llamar al mismo
+
+### Interpolación Lagrange
+La interpolación de Lagrange es un método numérico de aproximación de funciones, el cual hace uso de un polinomio que pasa por ciertos puntos conocidos de la función que se pretende aproximar.
+En este código se ingresan puntos del 2-4, estos deben ser enteros, después se ingresan pares de números, primero se introduce x y después  f(x) al final solo de da un valor para interpolar y listo ya esta el resultado de f(x).
+
+### Interpolación de Newton
+Es un método de interpolación polinómica. Aunque sólo existe un único polinomio que interpola una serie de puntos, existen diferentes formas de calcularlo.
+Se comienza ingresando los puntos de x y f(x) serán 5 puntos por x y 5 puntos por f(x) y al final solo se ingresa un valor para interpolar.
+
+### Ajuste polinomio por mínimos cuadrados.
+El método de mínimos cuadrados minimiza la varianza de los estimadores no sesgados de los coeficientes
+En este código se comienza ingresando  el numero de puntos, y como una forma diferente de hacerlo primero se agregaron las x  en total 6 y 6 de f(x) por ultimo se ingresa el valor del polinomio  y se obtienen los coeficientes del mismo
 
 ## Unidad 4
 
