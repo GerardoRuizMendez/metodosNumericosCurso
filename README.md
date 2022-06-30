@@ -84,5 +84,26 @@ En nuestro programa tenemos una interfaz en donde al usuario le van pidiendo cie
 
 ### Interpolación Lagrange, NewtoN y Ajuste polinomio por mínimos cuadrados
 
-Dentro de la clase de cada algoritmo se encuentra en=l algoritmo en la funcion main, solo basta con elecutarla para llamar al mismo
+Dentro de la clase de cada algoritmo se encuentra el algoritmo en la funcion main, solo basta con ejecutarla para llamar al mismo
 
+## Unidad 4
+
+### Derivadas: 
+Es la razon o velocidad de cambio de una funcion en un determinado punto es decir que tan rapido se esta producion una variacion.
+en nuestro programa nos pide ingresar la funcion y nos arroja el resultado
+
+### Integrales:
+Constituye una amplia gama de algoritmos para calcular el valor numerico de una integral definida y por extension el termino se usa a veces para describir algoritmos numericos para resolver ecuaciones diferenciales
+En nuestro programa tenemos una interfaz que nos pide el grado de la funcion, los coeficientes, despues de ingresarlos nos aparecera en un renglon que tenemos abajo le pondres los limites de nuestra integral y tenemos 4 metodos
+izquierdo, derecho, trapecio y simpson el usuario elegira dandole click al que decee
+
+## Unidad 5
+### Euler:
+Es una generalizacion del pequeño teorema de fermat y como tal afirma una proposicion sobre la divisibilidad de los numeros enteros.
+en nuestro programa tenemos 3 opciones en la primera podemos ver algun ejemplo que se haya guardado anteriormente, en el segundo punto podemos ingresar los datos y en el 3 es para salir
+Si le precinamos la 2 nos pide la funcion, el valor de a, el de b, para y, el numero de interaciones, si queremos usar fracciones o no, y cuantos decimales queremos utilizar maximo 6 y nos arroja todo el procedimiento con el resultado, y le damos enter para regresar al menu principal
+
+### Metodo de Rungekutta:
+Son un conjunto de metodos iterativos para la aproximacion de soluciones de ecuaciones diferenciales ordinarias, concretameten del problema de valor inicial los esquemas son explicitos
+En nuestro programa, tenemos 3 opciones en la primera podemos ver algun ejemplo que se haya guardado anteriormente, en el segundo punto podemos ingresar los datos y en el 3 es para salir
+Si le precinamos la 2 nos pide la funcion,el valor de a,el de b, para y, el numero de interaciones, si queremos usar fracciones o no, y cuantos decimales queremos utilizar maximo 6 y nos arroja todo el procedimiento con el resultado, y le damos enter para regresar al menu principal
