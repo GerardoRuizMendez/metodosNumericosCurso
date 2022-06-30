@@ -63,6 +63,23 @@ Devuelve una matriz con los valores de las incognitas como resultado
 ```java
 matriz incognitas=matriz.GaussSeidel(A,B,100);
 ```
+
+## Unidad 2
+En los algoritmos de la unidad 2 basta con ejecutar la funcion main de cada clase para abrir el formulario donde se ingresarán los datos
+
+### metodos de biseccion:
+Es un algoritmo de busqueda de raices de trabaja diviendo el intervalo a la mitad y seleccionando el subintervalo que tiene la raiz.
+En nuestro programa nos pide ingresar la funcion, el limite inferior, limite superior y tolerancia para que nos muestra la raiz le damos en calcular y listo
+
+### metodo de falsa posicion:
+Es un metodo iterativo de resolucion numerica de ecuaciones no lineales, el metodo es una combinacion de metodo de biseccion y el metodo de su secante.
+En nuestro programa nos muestra un ejemplo al inicio y despues nos pide ingresar el valor de a, el de b, y nos arroja el resultado.
+
+### newton raphson:
+Es un metodo para encontrar aproximacion de los ceros o raices de una funcion real, tambien puede ser usado para encontrar el maximo o minimo de una funcion encontrando los ceros de su primera derivada.
+En nuestro programa tenemos una interfaz en donde al usuario le van pidiendo ciertos datos para poder arrojar el resultado
+
+
 ## Unidad 3
 
 ### Interpolación Lagrange, NewtoN y Ajuste polinomio por mínimos cuadrados
