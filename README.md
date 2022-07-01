@@ -5,7 +5,7 @@ Integrantes del equipo:
 - Gerardo Ruiz Mendez
 - Concha Silva Mauricio Humberto
 - Magaly Torres López
-- Luis
+- Luis Andres Nuñes Morales
 
 
 
