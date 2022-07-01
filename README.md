@@ -2,10 +2,10 @@
 Algoritmos para la materia "Métodos numéricos".
 (Los algoritmos de las unidades 1 y 3 estan en la carpeta src, mientras el resto estan en la carpeta "unidades 2,4 y 5")
 Integrantes del equipo:
--Gerardo Ruiz Mendez
--Concha Silva Mauricio Humberto
--Magaly Torres López
--Luis
+- Gerardo Ruiz Mendez
+- Concha Silva Mauricio Humberto
+- Magaly Torres López
+- Luis
 
 
 
